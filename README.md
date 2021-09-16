@@ -5,11 +5,6 @@ Microsoft AI for Earth Project: AI Monitoring Coal-fired Power Plant Emission fr
 
 The experiment is in the `emissionai.ipynb` and the used demo csv is in the data folder.
 
-## Donation
-
-Please donate coffee if you find this work useful:
-
-DOGECOIN Address: DMTqrmakM7aqcLUUW229vn77Amv1NVHVr6
 
 ## Citation
 
